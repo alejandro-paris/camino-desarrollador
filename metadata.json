@@ -1,0 +1,5 @@
+{
+  "name": "El Camino del Desarrollador",
+  "description": "Un juego minimalista sobre la vida de un desarrollador. Conecta código, revisa PRs y despliega a producción mientras evitas los virus con tu cable de red.",
+  "requestFramePermissions": []
+}
